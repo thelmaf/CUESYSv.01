@@ -96,8 +96,8 @@ namespace CUESYSv._01
                     lbCustTel.Visible = true;
                     lbCustTitle.Visible = true;
                     lbCustTownCity.Visible = true;
-                    lbCustNationlity.Visible = true; //new functionality added
-                    cbNationality.Visible = true;//new functionality added
+                    lbCustNationlity.Visible = true; //Added Customer Nationality Label, maded it visible
+                    cbNationality.Visible = true;//Nationality ComboBox added and made visible
                     cbNationality.SelectedIndex = 0;
                     tbCustAdd1.Visible = true;
                     tbCustAdd2.Visible = true;
