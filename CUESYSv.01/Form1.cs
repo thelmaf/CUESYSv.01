@@ -8,8 +8,6 @@ namespace CUESYSv._01
 {
     public partial class Form1 : Form
     {
-
-        ///// NOTES START //////////////////////////////////////////////////////////
         ///// NOTES START //////////////////////////////////////////////////////////
         // Should include log items stored on database
         // Bookings only in single hour "slots", would be better to custom set
